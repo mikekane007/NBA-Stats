@@ -1,0 +1,5 @@
+We want to create a code that scraps data from the official NBA website (stats.nba.com/players), arranges it and presents it in form of easy to read statistics, plotted figures, and derived insights. This website contains lots of information such as statistics (per team, per player, etc.), history of every NBA team, information about current and retired players, details about games etc. It was our job to go through this website and imagine what kind of information you can scarp from it and how you could present it to the user of your program. Our program is based on originality, creativity, usefulness, interactivity with the user and easy-to-use.
+We imagined a minimum of 5 plotting options (5 types of plots). We included plots that derive new information such as correlation among different variables. We also
+built a simple prediction model (regression, naïve bayes, decision trees etc.) that allows to
+predict a variable from another one (for example: predict percentage of game loss from
+turnovers during a game).
